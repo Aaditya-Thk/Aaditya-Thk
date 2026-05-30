@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aaditya 🎓 Student at KIIT<br>🌍 From West Bengal<br>🌱 Data Structures & Algorithms – solving problems in C++ dailyurrently learning<br>💬 Learning languages
+👋 Hi, I'm Aaditya 🎓 Student at KIIT<br>🌍 From West Bengal<br>🌱 Data Structures & Algorithms – solving problems in C++ daily currently learning<br>💬 Learning languages
 
 
 ## 🌐 Socials:
