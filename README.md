@@ -11,22 +11,6 @@
 ![](https://streak-stats.demolab.com/?user=Aaditya-Thk&theme=dark&hide_border=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aaditya-Thk&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Thk&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Thk&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🔥 Contribution Graph
 
 <p align="center">
@@ -34,7 +18,6 @@
 </p>
 
 ---
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
