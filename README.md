@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Aaditya 🎓 Student at KIIT<br>🌍 From West Bengal<br>🌱 Data Structures & Algorithms – solving problems in C++ daily currently learning<br>💬 Learning languages
+👋 Hi there, I'm Aaditya Thakur<br>
+🎓 B.Tech CSE Student at KIIT University<br>
+💻 Passionate about Software Development, AI/ML, and Full-Stack Web Development<br>
+🚀 Currently exploring DSA in C++, MERN Stack, and Machine Learning<br>
+🌱 Always learning new technologies and building projects that solve real-world problems<br>
 
 
 ## 🌐 Socials:
