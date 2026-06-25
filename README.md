@@ -1,12 +1,9 @@
-# 💫 About Me:
+# About Me:
 👋 Hi there, I'm Aaditya Thakur<br>
-🎓 B.Tech CSE Student at KIIT University<br>
-💻 Passionate about Software Development, AI/ML, and Full-Stack Web Development<br>
-🚀 Currently exploring DSA in C++, MERN Stack, and Machine Learning<br>
-🌱 Always learning new technologies<br>
+🎓 Computer Science Engineering student passionate about building impactful software, solving real-world problems, and continuously learning emerging technologies.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadi_thk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadithk3301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meaadithakur.2005@gmail.com) 
 
 # 💻 Tech Stack:
@@ -22,7 +19,3 @@
 </p>
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
