@@ -26,11 +26,4 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Aaditya-Thk&theme=dark&hide_border=false)<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-Thk&theme=tokyo-night" />
-</p>
-
 ---
