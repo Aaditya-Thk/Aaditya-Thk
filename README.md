@@ -1,11 +1,7 @@
 # About Me:
 👋 Hi there, I'm Aaditya Thakur<br>
 🎓 Computer Science Engineering student passionate about building impactful software, solving real-world problems, and continuously learning emerging technologies.
-<p align="center">
-  <a href="https://leetcode.com/u/aadi_thk/" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Solved&labelColor=000000&color=FFA116&query=solved&url=https://leetcode-badge.vercel.app/api/users/aadi_thk&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
-  </a>
-</p>
+
 <!--  <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />
   </div> -->
